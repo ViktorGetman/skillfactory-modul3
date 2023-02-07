@@ -4,7 +4,7 @@
     {
 
         string myName;
-        myName = "Виктор";
+        myName = "Витя";
 
         Console.WriteLine(myName);
 
